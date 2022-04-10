@@ -1,0 +1,13 @@
+# extensions
+*.code-workspace
+*.log
+
+# npm
+node_modules/
+**/package-lock.json
+
+# build
+/dist/
+
+# environment
+operator-cong.js
